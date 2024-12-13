@@ -1,0 +1,8 @@
+com\proyectofin\micrud\controller\PersonaController.class
+com\proyectofin\micrud\model\Categoria.class
+com\proyectofin\micrud\model\Persona.class
+com\proyectofin\micrud\repository\PersonaRepository.class
+com\proyectofin\micrud\MicrudApplication.class
+com\proyectofin\micrud\model\Numero.class
+com\proyectofin\micrud\model\Horario.class
+com\proyectofin\micrud\service\PersonaService.class
